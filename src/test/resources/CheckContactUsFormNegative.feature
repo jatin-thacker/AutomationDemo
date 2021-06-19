@@ -16,6 +16,3 @@ Feature: Contact Us Form - Negative Scenarios
   | Jatin  | Thacker | mail.jatint | Thanks for building such a wonderful application! | Error: Invalid email address |
   | Jatin  | Thacker | mail.jatint@.com | Thanks for building such a wonderful application! | Error: Invalid email address |
   | Jatin  | Thacker | @gmail.com | Thanks for building such a wonderful application! | Error: Invalid email address |
-  
-
-    
