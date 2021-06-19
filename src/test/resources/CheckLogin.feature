@@ -15,7 +15,3 @@ Feature: Login Functionality - Positive Scenarios
   | Username | Password |
   | username | password |
   | username | Password |
-  
-  
-  
-    

@@ -10,6 +10,3 @@ Feature: Contact Us Form - Positive Scenarios
   | First Name | Last Name | Email | Message |
   | Jatin | Thacker | mail.jatint@gmail.com | Thanks for building such a wonderful application! | 
   | Kali | Linux | sudo@kalilinux.com | Taking it a step further! | 
-  
-  
-    
